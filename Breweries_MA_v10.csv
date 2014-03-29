@@ -1,0 +1,131 @@
+id,name,address,street,street2,city,state,zip,phone,type,notes,url,source,lon,lat,marker-symbol,marker-color
+1,3 Beards Beer Co,Holyoke MA 01040,,,Holyoke,MA,01040,,Contract,Brewed at Paper City Brewery,www.3beardsbeer.com,RateBeer,-72.60744,42.20697,beer,#0c49db
+2,3cross Brewing Company,Worcester MA 01602,,,Worcester,MA,01602,,Planning,,,Brewers Association,-71.84739,42.27347,beer,#db1e0c
+3,50 Back Brewing Co,5 Village Rd Pepperell MA 01463,5 Village Rd,PO Box 595,Pepperell,MA,01463,(978) 265-1610,Contract,Brewed at Olde Saratoga Brewing,www.50back.com,Brewers Association,-71.598541,42.673012,beer,#0c49db
+4,Aeronaut Brewing Company,14 Tyler St Somerville MA 02144,14 Tyler St,,Somerville,MA,02144,,Planning,,,Brewers Association,-71.105217,42.381619,beer,#db1e0c
+5,Amherst Brewing Co,10 University Dr Amherst MA 01002-2243,10 University Dr,,Amherst,MA,01002-2243,(413) 253-4400,Brewpub,,www.amherstbrewing.com,Brewers Association,-72.532669,42.373436,beer,#dbb10c
+6,Backlash Beer Co,12 Elko St Brighton MA 02135-2943,12 Elko St,Ste 5,Brighton,MA,02135-2943,,Contract,Brewed at Paper City Brewery,www.backlashbeer.com,Brewers Association,-71.149342,42.349923,beer,#0c49db
+7,Bad Martha Brewing Company,Edgartown MA 02539,,,Edgartown,MA,02539,,Contract,Brewed at Ipswich Ale Brewery,www.badmarthabeer.com,Brewers Association,-70.52905,41.39501,beer,#0c49db
+8,Banner Beer Co,Williamsburg MA 01096,,,Williamsburg,MA,01096,(617) 642-8079,Contract,Brewed at Brewmaster's Tavern,www.bannerbeercompany.com,RateBeer,-72.763571,42.397139,beer,#0c49db
+9,Barnstable Brewing,485 W Main St Needham MA 02601,485 W Main St,,Needham,MA,02601,,Planning,,,Brewers Association,-70.314033,41.650181,beer,#db1e0c
+10,Barrington Brewery and Restaurant,420 Stockbridge Rd Great Barrington MA 01230-9512,420 Stockbridge Rd,Ste 7,Great Barrington,MA,01230-9512,(413) 528-8282,Brewpub,,www.barringtonbrewery.net,Brewers Association,-73.343758,42.215374,beer,#dbb10c
+11,Battle Road Brewing Co,Ipswich MA 01938-2044,,,Ipswich,MA,01938-2044,,Contract,Brewed at Ipswich Ale Brewery,www.battleroadbeer.com,Brewers Association,-70.83831,42.67955,beer,#0c49db
+12,Bay State Brewing Company,1110 Whitemore St Leicester MA 01524,1110 Whitemore St,,Leicester,MA,01524,,Planning,Brewed at Paper City Brewery,www.baystatebeer.com,Brewers Association,-71.91536,42.24494,beer,#db1e0c
+13,Bentley Brewing,12 Crane St Southbridge MA 01550-1994,12 Crane St,,Southbridge,MA,01550-1994,(508) 981-8672,Micro,,www.bentleybrewing.com,BCCA,-72.035278,42.080582,beer,#07ce07
+14,Berkley Beer Company,17 Cotley St Berkley MA 02779,17 Cotley St,,Berkley,MA,02779,(508) 326-9954,Micro,,www.berkleybeer.com,Brewers Association,-71.051483,41.855259,beer,#07ce07
+15,Berkshire Brewing Co Inc,12 Railroad St South Deerfield MA 01373-0251,12 Railroad St,,South Deerfield,MA,01373-0251,(413) 665-6600,Regional,,www.berkshirebrewingcompany.com,Brewers Association,-72.609467,42.47871,beer,#07ce07
+16,Big Elm Brewing,65 Silver St Sheffield MA 01257,65 Silver St,,Sheffield,MA,01257,(413) 229-2348,Micro,,www.bigelmbrewery.com,Brewers Association,-73.350433,42.092949,beer,#07ce07
+17,Blatant Beer,Bondsville MA 01009-0147,,PO Box 147,Bondsville,MA,01009-0147,(508) 746-2674,Micro,Brewed at Brewmaster's Tavern,www.blatantbrewery.com,Brewers Association,-72.345238,42.212139,beer,#07ce07
+18,Blue Hills Brewery,1020 Turnpike St Canton MA 02021-2823,1020 Turnpike St,Ste 3B,Canton,MA,02021-2823,(781) 821-2337,Micro,,www.bluehillsbrewery.com,Brewers Association,-71.104614,42.149807,beer,#07ce07
+19,Bog Iron Brewing Co,33 W Main St Norton MA 02766-2711,33 W Main St,Unit F,Norton,MA,02766-2711,(508) 952-0555,Micro,,www.bogironbrewing.com,Brewers Association,-71.190643,41.965408,beer,#07ce07
+20,Boston Beer Co,1 Design Center Pl Boston MA 02210-2300,1 Design Center Pl,Ste 850,Boston,MA,02210-2300,(617) 368-5000,Regional,,www.samadams.com,Brewers Association,-71.032944,42.34425,beer,#07ce07
+21,Boston Beer Co,30 Germania St Boston MA 02130-2312,30 Germania St,,Boston,MA,02130-2312,(617) 368-5000,Micro,,www.samueladams.com,Brewers Association,-71.102928,42.314114,beer,#07ce07
+22,Brash Beer Co,Ipswich MA 01938-2044,,,Ipswich,MA,01938-2044,,Contract,Brewed at Ipswich Ale Brewery,www.brashbeers.com,RateBeer,-70.844545,42.684739,bber,#0c49db
+23,Brazo Fuerte Artisinal Beer,Watertown MA 02472,,,Watertown,MA,02472,,Planning,,,Brewers Association,-71.18788,42.36762,beer,#db1e0c
+24,Brewery Cursus Keme LLC,Nantucket MA 02554-2660,,,Nantucket,MA,02554-2660,,Planning,,,Brewers Association,-70.098648,41.283649,beer,#db1e0c
+25,Brewery in Planning,Boston MA 02109,,,Boston,MA,02109,,Planning,,,Brewers Association,-71.05675,42.35866,beer,#db1e0c
+26,Brewery In Planning - Bedford,Bedford MA 01730,,,Bedford,MA,01730,,Planning,,,Brewers Association,-71.28309,42.49291,beer,#db1e0c
+27,Brewery In Planning - Boston,Boston MA,,,Boston,MA,,,Planning,,,Brewers Association,-71.05675,42.35866,beer,#db1e0c
+28,Brewery In Planning - Boston,Boston MA 02108,,,Boston,MA,02108,,Planning,,,Brewers Association,-71.0656,42.35833,beer,#db1e0c
+29,Brewery In Planning - Boston,Boston MA 02115-6820,,,Boston,MA,02115-6820,(508) 245-4552,Planning,,,Brewers Association,-71.096039,42.339931,beer,#db1e0c
+30,Brewery In Planning - Boylston,Boylston MA,,,Boylston,MA,,,Planning,,,Brewers Association,-71.74024,42.3344,beer,#db1e0c
+31,Brewery In Planning - Brighton,Brighton MA 02135-2851,,,Brighton,MA,02135-2851,(631) 335-5968,Planning,,,Brewers Association,-71.153252,42.349628,beer,#db1e0c
+32,Brewery In Planning - Cambridge,78 Rice St Cambridge MA 02140-1819,78 Rice St,,Cambridge,MA,02140-1819,(617) 945-0726,Planning,,,Brewers Association,-71.12999,42.393829,beer,#db1e0c
+33,Brewery In Planning - Cambridge,Cambridge MA 02139,,,Cambridge,MA,02139,,Planning,,,Brewers Association,-71.10602,42.3668,beer,#db1e0c
+34,Brewery In Planning - Castle Rock,294 Simons Narrows Road Mashpee MA 02649-3636,294 Simons Narrows Road,,Mashpee,MA,02649-3636,(508) 274-5802,Planning,,,Brewers Association,-70.463386,41.610249,beer,#db1e0c
+35,Brewery In Planning - Chatham,Chatham MA 02633,,,Chatham,MA,02633,,Planning,,,Brewers Association,-69.96643,41.68483,beer,#db1e0c
+36,Brewery In Planning - Easthampton,Easthampton MA 01027,,,Easthampton,MA,01027,,Planning,,,Brewers Association,-72.67213,42.27095,beer,#db1e0c
+37,Brewery In Planning - Easthampton,Easthampton MA 01027,,,Easthampton,MA,01027,,Planning,,,Brewers Association,-72.67213,42.27095,beer,#db1e0c
+38,Brewery In Planning - Gloucester,Gloucester MA 01930,,,Gloucester,MA,01930,,Planning,,,Brewers Association,-70.66811,42.61435,beer,#db1e0c
+39,Brewery In Planning - Hingham,Hingham MA 02043,,,Hingham,MA,02043,,Planning,,,Brewers Association,-70.87486,42.2368,beer,#db1e0c
+40,Brewery In Planning - Holden,Holden MA 01520,,,Holden,MA,01520,,Planning,,,Brewers Association,-71.85562,42.34659,beer,#db1e0c
+41,Brewery In Planning - Maynard,Maynard MA 01754,,,Maynard,MA,01754,,Planning,,,Brewers Association,-71.46162,42.43012,beer,#db1e0c
+42,Brewery In Planning - Mills,Millis MA,,,Millis,MA,,,Planning,,,Brewers Association,-71.35899,42.16676,beer,#db1e0c
+43,Brewery In Planning - Petersham,Petersham MA 01366,,,Petersham,MA,01366,,Planning,,,Brewers Association,-72.19185,42.48563,beer,#db1e0c
+44,Brewery In Planning - Stockbridge,Stockbridge MA 01262-1202,,PO Box 1202,Stockbridge,MA,01262-1202,(413) 475-2342,Planning,,,Brewers Association,-73.310547,42.280941,beer,#db1e0c
+45,Brewery In Planning - Swampscott,Swampscott MA 01907,,,Swampscott,MA,01907,,Planning,,,Brewers Association,-70.92003,42.46973,beer,#db1e0c
+46,Brewery In Planning - Waltham,Waltham MA 02452,,,Waltham,MA,02452,,Planning,,,Brewers Association,-71.23532,42.37645,beer,#db1e0c
+47,Brewery In Planning - Wellfleet,Wellfleet MA 02667-1860,,PO Box 1860,Wellfleet,MA,02667-1860,,Planning,,,Brewers Association,-70.01519,41.92828,beer,#db1e0c
+48,Brewery In Planning - Whitman,Whitman MA 02382,,,Whitman,MA,02382,,Planning,,,Brewers Association,-70.93529,42.08085,beer,#db1e0c
+49,Brewery In Planning - Whitman,Whitman MA 02382,,,Whitman,MA,02382,,Planning,,,Brewers Association,-70.93529,42.08085,beer,#db1e0c
+50,Brewery In Planning - Woburn,Woburn MA 01801,,,Woburn,MA,01801,,Planning,,,Brewers Association,-71.15061,42.47923,beer,#db1e0c
+51,Brewmaster Jack,Holyoke MA 01040,,,Holyoke,MA,01040,(413) 367-7190,Contract,Brewed at Paper City Brewery,www.brewmasterjack.com,BeerAdvocate,-72.60744,42.20697,beer,#0c49db
+52,Brewmasters Tavern,4 Main St Williamsburg MA 01096-9428,4 Main St,,Williamsburg,MA,01096-9428,(413) 268-7741,Brewpub,,www.thebrewmasterstavern.com,Brewers Association,-72.730827,42.393848,beer,#dbb10c
+53,Building 8 Brewing,Northampton MA 01060,,,Northampton,MA,01060,,Planning,,,Brewers Association,-72.63239,42.31783,beer,#db1e0c
+54,Buzzards Bay Brewing Co,98 Horseneck Rd Westport MA 02790-1328,98 Horseneck Rd,,Westport,MA,02790-1328,(508) 636-2288,Micro,,www.buzzardsbrew.com,Brewers Association,-71.049881,41.56876,beer,#07ce07
+55,Cambridge Brewing Co,1 Kendall Sq Cambridge MA 02139-1592,1 Kendall Sq,Ste B1102,Cambridge,MA,02139-1592,(617) 494-1994,Brewpub,,www.cambridgebrewingcompany.com,Brewers Association,-71.090187,42.366569,beer,#dbb10c
+56,Cape Ann Brewing Co,11 Rogers St Gloucester MA 01930-5014,11 Rogers St,,Gloucester,MA,01930-5014,(978) 281-4782,Micro,,www.capeannbrewing.com,Brewers Association,-70.666084,42.611019,beer,#07ce07
+57,Cape Cod Beer,1336 Phinneys Ln Hyannis MA 02601-1875,1336 Phinneys Ln,Ste 2-2,Hyannis,MA,02601-1875,(508) 790-4200,Micro,,www.capecodbeer.com,Brewers Association,-70.310928,41.678348,beer,#07ce07
+58,Cape Commons,Allston MA 02134,,,Allston,MA,02134,,Planning,,www.cape-commons.com,Brewers Association,-71.13217,42.35341,beer,#db1e0c
+59,Castle Island Brewing Co.,Boston MA 02127-2324,,,Boston,MA,02127-2324,(781) 267-1723,Planning,,www.castleislandbeer.com,Brewers Association,-71.037338,42.333481,beer,#db1e0c
+60,Cisco Brewers,5 Barlett Farm Rd Nantucket MA 02584-2928,5 Barlett Farm Rd,,Nantucket,MA,02584-2928,(508) 325-5929,Micro,,www.ciscobrewers.com,Brewers Association,-70.131432,41.263599,beer,#07ce07
+61,Clown Shoes Beers,55 Massachusetts Ave Lexington MA 02421,55 Massachusetts Ave,,Lexington,MA,02421,(781) 365-1137,Contract,Brewed at Ipswich Ale Brewery,www.clownshoesbeer.com,Brewers Association,-71.193527,42.425831,beer,#0c49db
+62,Cody Brewing Co,36 Main St Amesbury MA 01913-2807,36 Main St,,Amesbury,MA,01913-2807,(978) 378-4738,Micro,,www.codybrewing.com,Brewers Association,-70.93045,42.857311,beer,#07ce07
+63,Deadwood Café & Brewery,820 Morrissey Blvd Dorchester MA 02122,820 Morrissey Blvd,,Dorchester,MA,02122,(617) 825-3800,Brewpub,,www.deadwoodbrewery.com,BeerAdvocate,-71.046317,42.294018,beer,#dbb10c
+64,Do Can Brewery,44 Stedman St Lowell MA 01851,44 Stedman St,Ste 4,Lowell,MA,01851,(580) 572-0425,Micro,,www.docanbrewery.com,BCCA,-71.348892,42.627628,beer,#07ce07
+65,Element Brewing Co,30 Bridge St Millers Falls MA 01349,30 Bridge St,,Millers Falls,MA,01349,(413) 835-6340,Micro,,www.elementbeer.com,Brewers Association,-72.494362,42.577656,beer,#07ce07
+66,Enlightenment Ales Brewing Co,3 Charlton St Everett MA 02149-2405,3 Charlton St,Bldg 3 # Unit 4,Everett,MA,02149-2405,(617) 819-4353,Micro,,www.enlightenmentales.wordpress.com,,-71.063248,42.399826,beer,#07ce07
+67,"Franklin Brewing Company, LLC",Franklin MA 02038,,,Franklin,MA,02038,,Planning,,www.franklin-brewing.com,Brewers Association,-71.38107,42.08003,beer,#db1e0c
+68,Gardner Ale House,74 Parker St Gardner MA 01440-3809,74 Parker St,,Gardner,MA,01440-3809,(978) 669-0122,Brewpub,,www.gardnerale.com,Brewers Association,-71.997826,42.575794,beer,#dbb10c
+69,Glass Bottom Brewery,480 Pleasant St Lee MA 01238,480 Pleasant St,,Lee,MA,01238,(413) 243-6170,Micro,,www.glassbottombrewery.org,Mass.gov,-73.244185,42.287336,beer,#07ce07
+70,Goodfellow's Brewing Co.,8 Race Course Rd Lakeville MA 02347-1826,8 Race Course Rd,,Lakeville,MA,02347-1826,,Micro,,www.goodfellowsbrewing.com,Brewers Association,-70.976028,41.817322,beer,#07ce07
+71,Harpoon Brewery,306 Northern Ave Boston MA 02210-2367,306 Northern Ave,Ste 2,Boston,MA,02210-2367,(617) 574-9551,Regional,,www.harpoonbrewery.com,Brewers Association,-71.034584,42.346512,beer,#07ce07
+72,High & Mighty Brewing Co,Belchertown MA 01007-0486,,PO Box 486,Belchertown,MA,01007-0486,(413) 323-7790,Contract,Brewed at Paper City Brewery,www.highandmightybrewing.com,Brewers Association,-72.400681,42.277039,beer,#0c49db
+73,High Horse Brewery and Bistro,24 N Pleasant St Amherst MA 01002-1703,24 N Pleasant St,,Amherst,MA,01002-1703,(413) 230-3034,Brewpub,,www.highhorsebrewing.com,Brewers Association,-72.520058,42.376282,beer,#dbb10c
+74,Howler Brewing Co,18 Elm St Hatfield MA 01038,18 Elm St,,Hatfield,MA,01038,,Micro,,www.facebook.com/howlerbrewery.benson,Mass.gov,-72.609573,42.36684,beer,#07ce07
+75,Idle Hands Craft Ales,3 Charlton St Everett MA 02149-2405,3 Charlton St,Bldg 3 # Unit 4,Everett,MA,02149-2405,(617) 819-4353,Micro,,www.idlehandscraftales.com,Brewers Association,-71.063248,42.399826,beer,#07ce07
+76,Independent Fermentations,Plymouth MA 02360,,,Plymouth,MA,02360,,Planning,,,Brewers Association,-70.65648,41.92747,beer,#db1e0c
+77,Ipswich Ale Brewery,23 Hayward St Ipswich MA 01938-2044,23 Hayward St,,Ipswich,MA,01938-2044,(978) 356-3329,Regional,,www.mercurybrewing.com,Brewers Association,-70.84391,42.67271,beer,#07ce07
+78,Jack's Abby Brewing,81 Morton St Framingham MA 01702-7153,81 Morton St,,Framingham,MA,01702-7153,(508) 872-0900,Micro,,www.jacksabbybrewing.com,Brewers Association,-71.401588,42.278782,beer,#07ce07
+79,John Harvards Brew House - Framingham,1 Worcester Rd Framingham MA 01701-5359,1 Worcester Rd,,Framingham,MA,01701-5359,(508) 875-2337,Brewpub,,www.johnharvards.com,Brewers Association,-71.393806,42.299072,beer,#dbb10c
+80,John Harvards Brew House - Harvard Square,33 Dunster St Cambridge MA 02138-5002,33 Dunster St,,Cambridge,MA,02138-5002,(617) 868-3585,Brewpub,,www.johnharvards.com,Brewers Association,-71.119324,42.372429,beer,#dbb10c
+81,John Harvards Brew House Inc. (Corp),55 Cambridge Pkwy  Cambridge MA 02142-1218,55 Cambridge Pkwy,Ste 200,Cambridge,MA,02142-1218,(617) 499-2700,Other,,www.johnharvards.com,Brewers Association,-71.07579,42.365848,beer,#dbb10c
+82,Kretschmann Brewing Company,294 Thompson Rd Webster MA 01570-1507,294 Thompson Rd,,Webster,MA,01570-1507,(508) 671-7711,Micro,,www.kbcbrewing.com,Brewers Association,-71.855347,42.032982,beer,#07ce07
+83,Lamplighter Brewing Co.,Cambridge MA 02139,,,Cambridge,MA,02139,,Planning,,,Brewers Association,-71.10602,42.3668,beer,#db1e0c
+84,Lefty's Brewing Co,301 Wells St Greenfield MA 01301,301 Wells St,,Greenfield,MA,01301,(413) 475-3449,Micro,,www.leftysbrew.com,BCCA,-72.606399,42.601551,beer,#07ce07
+85,Mashjuga Brewing Co,Westport MA 02790,,,Westport,MA,02790,,Contract,Brewed at Buzzard's Bay Brewing,www.powermarketingusa.com/mashjuga,RateBeer,-71.082371,41.599176,beer,#0c49db
+86,Mayflower Brewing Co,12 Resnik Rd Plymouth MA 02360-7245,12 Resnik Rd,Ste 3,Plymouth,MA,02360-7245,(508) 746-2674,Micro,,www.mayflowerbrewing.com,Brewers Association,-70.710991,41.949581,beer,#07ce07
+87,Merrimack Ales,Westford MA 01886,,,Westford,MA,01886,,Planning,,,Brewers Association,-71.43709,42.58266,beer,#db1e0c
+88,Mystic Brewery,174 Williams St Chelsea MA 02150-3804,174 Williams St,,Chelsea,MA,02150-3804,(617) 800-9023,Micro,,www.mystic-brewery.com,Brewers Association,-71.04364,42.391422,beer,#07ce07
+89,Nantasket Brewing Company,Roslindale MA 02131,,,Roslindale,MA,02131,,Planning,,,Brewers Association,-71.13136,42.28664,beer,#db1e0c
+90,Nashoba Valley Winery and Brewery,100 Wattaquadock Hill Rd Bolton MA 01740-1238,100 Wattaquadock Hill Rd,,Bolton,MA,01740-1238,(978) 779-5521,Micro,,www.nashobawinery.com,Brewers Association,-71.616226,42.430611,beer,#07ce07
+91,Naukabout Beer Co,Holyoke MA 01040,,C/o Paper City Brewery,Holyoke,MA,01040,,Contract,Brewed at Paper City Brewery,www.naukabout.com,Brewers Association,-72.60744,42.20697,beer,#0c49db
+92,Navigation Brewing Co,45 Meadowcroft St Lowell MA ,45 Meadowcroft St,Unit #1,Lowell,MA,01852,,Micro,,www.navigationbrewing.com,Facebook,-71.303163,42.626561,beer,#07ce07
+93,Newburyport Brewing Co,4 New Pasture Rd Newburyport MA 01950-4040,4 New Pasture Rd,,Newburyport,MA,01950-4040,,Micro,,www.nbptbrewing.com,Brewers Association,-70.886574,42.804531,beer,#07ce07
+94,"Night Shift Brewing, Inc",3 Charlton St Everett MA 02149-2405,3 Charlton St,Unit 9,Everett,MA,02149-2405,(617) 294-4233,Micro,,www.nightshiftbrewing.com,Brewers Association,-71.063248,42.399826,beer,#07ce07
+95,Northampton Brewery,11 Brewster Ct Northampton MA 01060-3801,11 Brewster Ct,,Northampton,MA,01060-3801,(413) 584-9903,Brewpub,,www.northamptonbrewery.com,Brewers Association,-72.630249,42.317421,beer,#dbb10c
+96,Notch Brewing,Ipswich MA 01938-2044,,,Ipswich,MA,01938-2044,(978) 853-9138,Contract,Brewed at Ipswich Ale Brewery,www.notchbrewing.com,Brewers Association,-70.84391,42.67271,beer,#0c49db
+97,Nowhere Brewing Company,25 Dearborn St Salem MA 01970-2448,25 Dearborn St,,Salem,MA,01970-2448,(978) 594-1461,Planning,,,Brewers Association,-70.900864,42.52961,beer,#db1e0c
+98,Offshore Ale Co,30 Kennebec Ave Oak Bluffs MA 02557,30 Kennebec Ave,,Oak Bluffs,MA,02557,(508) 693-2626,Brewpub,,www.offshoreale.com,Brewers Association,-70.557251,41.456188,beer,#dbb10c
+99,Opa Opa Steakhouse and Brewery,169 College Hwy Southampton MA 01073-0679,169 College Hwy,,Southampton,MA,01073-0679,(413) 527-0808,Brewpub,,www.opaopasteakhousebrewery.com,Brewers Association,-72.724609,42.23584,beer,#dbb10c
+100,Paper City Brewery Co Inc,108 Cabot St Holyoke MA 01040-6061,108 Cabot St,,Holyoke,MA,01040-6061,(413) 535-1588,Micro,,www.papercity.com,Brewers Association,-72.61042,42.201172,beer,#07ce07
+101,People's Pint / Franklin County Brewing Co,76 Hope St Greenfield MA 01301-3573,76 Hope St,,Greenfield,MA,01301-3573,(413) 773-0333,Brewpub,,www.thepeoplespint.com,Brewers Association,-72.599533,42.5844,beer,#dbb10c
+102,Percival Brewing Co,Dorchester MA 02122,,,Dorchester,MA,02122,(781) 664-4705,Contract,Brewed at Paper City Brewery,www.percivalbeercompany.com,BeerAdvocate,-71.042157,42.291412,beer,#0c49db
+103,Pioneer Brewing,195 Arnold Rd Fiskdale MA 01518,195 Arnold Rd,,Fiskdale,MA,01518,(508) 347-7500,Micro,,www.hylandbrew.com,Brewers Association,-72.107056,42.137096,beer,#07ce07
+104,Portico Brewing Co,Cambridge MA 02138-2035,,,Cambridge,MA,02138-2035,,Contract,Brewed at Watch City Brewing Co,www.porticobrewing.com,Brewers Association,-71.132751,42.380291,beer,#0c49db
+105,Pretty Things Beer & Ale Project,17 Seagrave Rd Cambridge MA 02140-1640,17 Seagrave Rd,,Cambridge,MA,02140-1640,(617) 682-6419,Micro,,www.prettythingsbeertoday.com,Brewers Association,-71.14016,42.3993,beer,#07ce07
+106,Private Stock Brewing Co,14 York Rd Winchester MA 01890,14 York Rd,,Winchester,MA,01890,,Contract,Brewed at F.X. Matt Brewing Co,www.privatestockbrewing.com,RateBeer,-71.144318,42.452751,beer,#0c49db
+107,Rapscallion Ales,200 Hanscom Dr Bedford MA 01730-2603,200 Hanscom Dr,,Bedford,MA,01730-2603,(617) 877-0164,Contract,Brewed at Paper City Brewery,www.drinkrapscallion.com,Brewers Association,-71.291252,42.462978,beer,#0c49db
+108,Riverwalk Brewing Co,3 Graf Rd Newburyport MA 01950,3 Graf Rd,Unit 15,Newburyport,MA,01950,(978) 499-2337,Micro,,www.riverwalkbrewing.com,Mass.gov,-70.882083,42.806408,beer,#07ce07
+109,Rock Bottom Brewery - Stuart Street,115 Stuart St Boston MA 02116-5609,115 Stuart St,,Boston,MA,02116-5609,(617) 742-2739,Brewpub,Brewed at Rock Bottom - Pittsburgh,www.rockbottom.com/boston,Brewers Association,-71.065353,42.351227,beer,#dbb10c
+110,Scantic River Brewery,25 Mill Rd Hampden MA 01036-9624,25 Mill Rd,,Hampden,MA,01036-9624,(413) 537-3427,Micro,,www.scanticriverbrewery.com,Mass.gov,-72.441603,42.052375,beer,#07ce07
+111,Sherwood Forest Brewers,Northborough MA 01532-4005,,PO Box 1005,Northborough,MA,01532-4005,(508) 466-8082,Contract,Brewed at Ipswich Ale Brewery,www.sherwoodbrewers.com,Brewers Association,-71.655418,42.310108,beer,#0c49db
+112,Slesar Bros Brewing Co - Boston Beer Works,112 Canal St Boston MA 02114-1805,112 Canal St,,Boston,MA,02114-1805,(617) 896-2337,Brewpub,,www.beerworks.net,Brewers Association,-71.060226,42.364456,beer,#dbb10c
+113,Slesar Bros Brewing Co - Boston Beer Works,61 Brookline Ave Boston MA 02215-3406,61 Brookline Ave,,Boston,MA,02215-3406,(617) 536-2337,Brewpub,,www.beerworks.net,Brewers Association,-71.099129,42.34721,beer,#dbb10c
+114,Slesar Bros Brewing Co - Boston Beer Works,345 Cochituate Rd Framingham MA 01701,345 Cochituate Rd,,Framingham,MA,01701,(617) 896-2300,Brewpub,,www.beerworks.net,Brewers Association,-71.400131,42.30209,beer,#dbb10c
+115,Slesar Bros Brewing Co - Corp,110 Canal St Boston MA 02114-1805,110 Canal St,,Boston,MA,02114-1805,(617) 896-2300,Brewpub,,www.beerworks.net,Brewers Association,-71.06028,42.36438,beer,#dbb10c
+116,Slesar Bros Brewing Co - Hingham Beer Works,18 Shipyard Dr Hingham MA 02043-1670,18 Shipyard Dr,Ste 1K,Hingham,MA,02043-1670,(781) 749-2337,Brewpub,,www.beerworks.net,Brewers Association,-70.922554,42.249794,beer,#dbb10c
+117,Slesar Bros Brewing Co - Lowell Beer Works,203 Cabot St Lowell MA 01854,203 Cabot St,,Lowell,MA,01854,(978) 937-2337,Brewpub,,www.beerworks.net,Brewers Association,-71.316284,42.651016,beer,#dbb10c
+118,Slesar Bros Brewing Co - Salem Beer Works,278 Derby St Salem MA 01970-3635,278 Derby St,,Salem,MA,01970-3635,(978) 745-2337,Brewpub,,www.beerworks.net,Brewers Association,-70.891182,42.520618,beer,#dbb10c
+119,Somerville Brewing Company,1310 Broadway Somerville MA 02144-1836,1310 Broadway,Ste 200,Somerville,MA,02144-1836,(800) 428-1150,Contract,Brewed at Ipswich Ale Brewery,www.slumbrew.com,Brewers Association,-71.13163,42.405701,beer,#0c49db
+120,Spencer Brewery,167 N Spencer Rd Spencer MA 01562-1232,167 N Spencer Rd,,Spencer,MA,01562-1232,(508) 885-8700,Micro,,www.spencerbrewery.com,Brewers Association,-72.00042,42.292061,beer,#07ce07
+121,Stoneman Brewery,20 Stetson Brothers Rd Colrain MA 01340,20 Stetson Brothers Rd,,Colrain,MA,01340,(413) 624-5195,Micro,,www.stonemanbrewery.com,BCCA,-72.77742,42.703091,beer,#07ce07
+122,The Tap Brewing Company,100 Washington St Haverhill MA 01832-5500,100 Washington St,,Haverhill,MA,01832-5500,(617) 835-8315,Brewpub,,www.tapbrewingcompany.com,Brewers Association,-71.085213,42.772678,beer,#dbb10c
+123,Tree House Brewing Co,160 East Hill Rd Monson MA 01057,160 East Hill Rd,,Monson,MA,01057,(413) 949-1891,Micro,,www.treehousebrew.com,Brewers Association,-72.285301,42.09137,beer,#07ce07
+124,Trillium Brewing,369 Congress St Boston MA 02210-1836,369 Congress St,,Boston,MA,02210-1836,,Micro,,www.trilliumbrewing.com,Brewers Association,-71.048042,42.349812,beer,#07ce07
+125,Wachusett Brewing Co,175 State Rd E Westminster MA 01473-1208,175 State Rd E,,Westminster,MA,01473-1208,(978) 874-9965,Regional,,www.wachusettbrew.com,Brewers Association,-71.870773,42.558472,beer,#07ce07
+126,Wandering Star Brewing Co,11 Gifford St Pittsfield MA 01201,11 Gifford St,,Pittsfield,MA,01201,(917) 573-3942,Micro,,www.wanderingstarbrewing.com,Brewers Association,-73.211456,42.456959,beer,#07ce07
+127,Watch City Brewing Co,256 Moody St Waltham MA 02453-5303,256 Moody St,,Waltham,MA,02453-5303,(781) 647-4000,Brewpub,,www.watchcitybrew.com,Brewers Association,-71.23661,42.371807,beer,#dbb10c
+128,Westfield River Brewing Co,79 Mainline Dr Westfield MA 01085,79 Mainline Dr,,Westfield,MA,01085,(413) 642-5945,Micro,,www.westfieldriverbrewing.com,Brewers Association,-72.731018,42.11002,beer,#07ce07
+129,Whip City Brewing,287 N Elm St Westfield MA 01085,287 N Elm St,,Westfield,MA,01085,(413) 564-0149,Planning,,,Brewers Association,-72.73867,42.1371,beer,#db1e0c
+130,Wormtown Brewing,455 Park Ave Worcester MA 01610-1226,455 Park Ave,,Worcester,MA,01610-1226,(774) 239-1555,Micro,,www.wormtownbrewery.com,Brewers Association,-71.82534,42.254372,beer,#07ce07
