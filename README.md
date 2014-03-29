@@ -1,4 +1,4 @@
-*Beerography
+#Beerography
 ====
 
 All things beer related - geospatially speaking.
@@ -9,7 +9,7 @@ Probably easiest to edit the *.csv files and use http://geojson.io to recreate t
 
 _# if using http://geojson.io for editing, watch your zip codes as it will strip leading zeros._
 
-**TO DO:
+##TO DO:
 >* Add open or closed to public
 >* Add tour information (yes/no, cost, days, hours, etc.)
 >* Add tasting room information
