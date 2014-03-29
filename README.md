@@ -14,3 +14,5 @@ _# if using http://geojson.io for editing, watch your zip codes as it will strip
 >* Add tour information (yes/no, cost, days, hours, etc.)
 >* Add tasting room information
 >* Add social media links (Facebook, Twitter, etc.)
+
+<script src="https://embed.github.com/view/geojson/dmofot/Beerography/master/MA_Breweries_v10.geojson"></script>
