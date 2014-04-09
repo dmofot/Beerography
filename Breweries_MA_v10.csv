@@ -20,7 +20,7 @@ id,name,address,street,street2,city,state,zip,phone,type,notes,url,source,lon,la
 19,Bog Iron Brewing Co,33 W Main St Norton MA 02766-2711,33 W Main St,Unit F,Norton,MA,02766-2711,(508) 952-0555,Micro,,www.bogironbrewing.com,Brewers Association,-71.190643,41.965408,beer,#07ce07
 20,Boston Beer Co,1 Design Center Pl Boston MA 02210-2300,1 Design Center Pl,Ste 850,Boston,MA,02210-2300,(617) 368-5000,Regional,,www.samadams.com,Brewers Association,-71.032944,42.34425,beer,#07ce07
 21,Boston Beer Co,30 Germania St Boston MA 02130-2312,30 Germania St,,Boston,MA,02130-2312,(617) 368-5000,Micro,,www.samueladams.com,Brewers Association,-71.102928,42.314114,beer,#07ce07
-22,Brash Beer Co,Ipswich MA 01938-2044,,,Ipswich,MA,01938-2044,,Contract,Brewed at Ipswich Ale Brewery,www.brashbeers.com,RateBeer,-70.844545,42.684739,bber,#0c49db
+22,Brash Beer Co,Ipswich MA 01938-2044,,,Ipswich,MA,01938-2044,,Contract,Brewed at Ipswich Ale Brewery,www.brashbeers.com,RateBeer,-70.844545,42.684739,beer,#0c49db
 23,Brazo Fuerte Artisinal Beer,Watertown MA 02472,,,Watertown,MA,02472,,Planning,,,Brewers Association,-71.18788,42.36762,beer,#db1e0c
 24,Brewery Cursus Keme LLC,Nantucket MA 02554-2660,,,Nantucket,MA,02554-2660,,Planning,,,Brewers Association,-70.098648,41.283649,beer,#db1e0c
 25,Brewery in Planning,Boston MA 02109,,,Boston,MA,02109,,Planning,,,Brewers Association,-71.05675,42.35866,beer,#db1e0c
@@ -61,7 +61,7 @@ id,name,address,street,street2,city,state,zip,phone,type,notes,url,source,lon,la
 60,Cisco Brewers,5 Barlett Farm Rd Nantucket MA 02584-2928,5 Barlett Farm Rd,,Nantucket,MA,02584-2928,(508) 325-5929,Micro,,www.ciscobrewers.com,Brewers Association,-70.131432,41.263599,beer,#07ce07
 61,Clown Shoes Beers,55 Massachusetts Ave Lexington MA 02421,55 Massachusetts Ave,,Lexington,MA,02421,(781) 365-1137,Contract,Brewed at Ipswich Ale Brewery,www.clownshoesbeer.com,Brewers Association,-71.193527,42.425831,beer,#0c49db
 62,Cody Brewing Co,36 Main St Amesbury MA 01913-2807,36 Main St,,Amesbury,MA,01913-2807,(978) 378-4738,Micro,,www.codybrewing.com,Brewers Association,-70.93045,42.857311,beer,#07ce07
-63,Deadwood Café & Brewery,820 Morrissey Blvd Dorchester MA 02122,820 Morrissey Blvd,,Dorchester,MA,02122,(617) 825-3800,Brewpub,,www.deadwoodbrewery.com,BeerAdvocate,-71.046317,42.294018,beer,#dbb10c
+63,Deadwood Cafï¿½ & Brewery,820 Morrissey Blvd Dorchester MA 02122,820 Morrissey Blvd,,Dorchester,MA,02122,(617) 825-3800,Brewpub,,www.deadwoodbrewery.com,BeerAdvocate,-71.046317,42.294018,beer,#dbb10c
 64,Do Can Brewery,44 Stedman St Lowell MA 01851,44 Stedman St,Ste 4,Lowell,MA,01851,(580) 572-0425,Micro,,www.docanbrewery.com,BCCA,-71.348892,42.627628,beer,#07ce07
 65,Element Brewing Co,30 Bridge St Millers Falls MA 01349,30 Bridge St,,Millers Falls,MA,01349,(413) 835-6340,Micro,,www.elementbeer.com,Brewers Association,-72.494362,42.577656,beer,#07ce07
 66,Enlightenment Ales Brewing Co,3 Charlton St Everett MA 02149-2405,3 Charlton St,Bldg 3 # Unit 4,Everett,MA,02149-2405,(617) 819-4353,Micro,,www.enlightenmentales.wordpress.com,,-71.063248,42.399826,beer,#07ce07
