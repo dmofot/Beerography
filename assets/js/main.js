@@ -84,7 +84,7 @@ var brew = L.geoJson(null, {
           maxWidth: "400",
           closeButton: false
         });
-      }; */
+      };
     }
     layer.on({
       mouseover: function(e) {
