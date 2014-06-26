@@ -34,7 +34,7 @@ var brew = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.name + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.address + "</td></tr>" + "<tr><th>Type</th><td>" + feature.properties.type + "</td></tr>" + "<tr><th>Website</th><td><a class='url-break' href='" + feature.properties.url + "' target='_blank'>" + feature.properties.url + "</a></td></tr>" + "<table>";
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.name + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.address + "</td></tr>" + "<tr><th>Type</th><td>" + feature.properties.type + "</td></tr>" + "<tr><th>Website</th><td><a href='" + feature.properties.url + "' target='_blank'>" + feature.properties.url + "</a></td></tr>" + "<table>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.name);
@@ -96,22 +96,6 @@ var overlays = {
 var layerControl = L.control.layers(baseLayers, overlays, {
   collapsed: isCollapsed
 }).addTo(map);
-
-/* Legend Control */
-/* var legendControl = L.control({
-  position: 'bottomright'
-});
-legendControl.onAdd = function (map) {
-  this._div = L.DomUtil.create('div', 'legend');
-  this.update();
-  return this._div;
-};
-legendControl.update = function (box) {
-  this._div.innerHTML = "<img src='assets/img/legend.png' width='142' height='100'>";
-};
-if (document.body.clientWidth >= 768) {
-  legendControl.addTo(map);
-}; */
 
 /* Leaflet Locate Control */
 var lc = L.control.locate({
