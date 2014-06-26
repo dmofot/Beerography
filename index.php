@@ -57,7 +57,7 @@
           <li class="dropdown">
               <a class="dropdown-toggle" id="downloadDrop" href="#" role="button" data-toggle="dropdown"><i class="fa fa-cloud-download" style="color: white"></i>&nbsp;&nbsp;Download <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="breweries_MA_v10.geojson" download="breweries_MA_v10.geojson" target="_blank" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-download"></i>&nbsp;&nbsp;Beerography</a></li>
+                <li><a href="Breweries_MA_v10.geojson" download="Breweries_MA_v10.geojson" target="_blank" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-download"></i>&nbsp;&nbsp;Beerography</a></li>
               </ul>
           </li>
         </ul>

@@ -18,101 +18,51 @@ var mapboxSat = L.tileLayer("http://{s}.tiles.mapbox.com/v3/examples.map-2k9d7u0
 });
 
 /* Overlay Layers */
+var brewLayer = L.geoJson(null);
 var brew = L.geoJson(null, {
-  style: function (feature) {
-    if (feature.properties.type === "Brewpub") {
-      return {
-        color: "#f00a19",
-        weight: 5,
-        opacity: 0.9
-      };
-    };
-    if (feature.properties.type === "Contract") {
-      return {
-        color: "#f26e09",
-        weight: 5,
-        opacity: 0.9
-      };
-    };
-    if (feature.properties.type === "Micro") {
-      return {
-        color: "#00cc00",
-        weight: 5,
-        opacity: 0.9
-      };
-    };
-    if (feature.properties.type === "Other") {
-      return {
-        color: "#f00a19",
-        weight: 5,
-        opacity: 0.9
-      };
-    };
-    if (feature.properties.type === "Planning") {
-      return {
-        color: "#f00a19",
-        weight: 5,
-        opacity: 0.9
-      };
-    };
-    if (feature.properties.type === "Regional") {
-      return {
-        color: "#f00a19",
-        weight: 5,
-        opacity: 0.9
-      };
-    };
+  pointToLayer: function (feature, latlng) {
+    return L.marker(latlng, {
+      icon: L.icon({
+        iconUrl: "assets/img/theater.png",
+        iconSize: [24, 28],
+        iconAnchor: [12, 28],
+        popupAnchor: [0, -25]
+      }),
+      title: feature.properties.NAME,
+      riseOnHover: true
+    });
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content =   "<table class='table table-striped table-bordered table-condensed'>"+
-                "<tr><th>Trail</th><td>" + feature.properties.name + "</td></tr>"+
-                "<tr><th>SubTitle</th><td>" + feature.properties.address + "</td></tr>"+
-                "<tr><th>Designation</th><td>" + feature.properties.url + "</td></tr>"
-              "<table>";
-      if (document.body.clientWidth <= 767) {
-        layer.on({
-          click: function(e) {
-            $("#feature-title").html(feature.properties.name);
-            $("#feature-info").html(content);
-            $("#featureModal").modal("show");
-          }
-        });
-
-      } else {
-        layer.bindPopup(content, {
-          maxWidth: "400",
-          closeButton: false
-        });
-      };
-    }
-    layer.on({
-      mouseover: function(e) {
-        var layer = e.target;
-        layer.setStyle({
-          weight: 3,
-          color: "#00ffff",
-          opacity: 1
-        });
-        if (!L.Browser.ie && !L.Browser.opera) {
-          layer.bringToFront();
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.name + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.address + "</td></tr>" + "<tr><th>Type</th><td>" + feature.properties.type + "</td></tr>" + "<tr><th>Website</th><td><a class='url-break' href='" + feature.properties.url + "' target='_blank'>" + feature.properties.url + "</a></td></tr>" + "<table>";
+      layer.on({
+        click: function (e) {
+          $("#feature-title").html(feature.properties.name);
+          $("#feature-info").html(content);
+          $("#featureModal").modal("show");
+          highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], {
+            stroke: false,
+            fillColor: "#00FFFF",
+            fillOpacity: 0.7,
+            radius: 10
+          }));
         }
-      },
-      mouseout: function(e) {
-        brew.resetStyle(e.target);
-      }
-    });
-    /* Search Auto-complete */
-    brewSearch.push({
-      name: layer.feature.properties.name,
-      source: "brew",
-      id: L.stamp(layer),
-      bounds: layer.getBounds()
-    });
+      });
+      $("#theater-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name">'+layer.feature.properties.name+'<i class="fa fa-chevron-right pull-right"></td></tr>');
+      brewSearch.push({
+        name: layer.feature.properties.name,
+        address: layer.feature.properties.address,
+        source: "Breweries",
+        id: L.stamp(layer),
+        lat: layer.feature.geometry.coordinates[1],
+        lng: layer.feature.geometry.coordinates[0]
+      });
+    }
   }
 });
-$.getJSON("breweries_MA_v10.geojson", function (data) {
+$.getJSON("data/Breweries_MA_v10.geojson", function (data) {
   brew.addData(data);
+  map.addLayer(brewLayer);
 });
 
 /* Create map */
