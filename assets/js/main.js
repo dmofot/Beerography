@@ -23,12 +23,12 @@ var brew = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.icon({
-        iconUrl: "assets/img/theater.png",
+        iconUrl: "assets/img/whiskey_barrel.png",
         iconSize: [24, 28],
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
       }),
-      title: feature.properties.NAME,
+      title: feature.properties.name,
       riseOnHover: true
     });
   },
@@ -48,7 +48,7 @@ var brew = L.geoJson(null, {
           }));
         }
       });
-      $("#theater-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name">'+layer.feature.properties.name+'<i class="fa fa-chevron-right pull-right"></td></tr>');
+      $("#brew-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="brew-name">'+layer.feature.properties.name+'<i class="fa fa-chevron-right pull-right"></td></tr>');
       brewSearch.push({
         name: layer.feature.properties.name,
         address: layer.feature.properties.address,
@@ -98,7 +98,7 @@ var layerControl = L.control.layers(baseLayers, overlays, {
 }).addTo(map);
 
 /* Legend Control */
-var legendControl = L.control({
+/* var legendControl = L.control({
   position: 'bottomright'
 });
 legendControl.onAdd = function (map) {
@@ -111,7 +111,7 @@ legendControl.update = function (box) {
 };
 if (document.body.clientWidth >= 768) {
   legendControl.addTo(map);
-};
+}; */
 
 /* Leaflet Locate Control */
 var lc = L.control.locate({
@@ -187,7 +187,7 @@ $(document).one("ajaxStop", function () {
   }, {
     name: "brew",
     displayKey: "name",
-    source: bctBH.ttAdapter(),
+    source: brewBH.ttAdapter(),
     templates: {
       header: "<h4 class='typeahead-header'>brew</h4>"
     }
